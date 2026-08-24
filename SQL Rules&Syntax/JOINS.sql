@@ -1,0 +1,1 @@
+--use trim func to get rid of blank spaces and perform data handling and also null if 
